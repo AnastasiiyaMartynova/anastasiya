@@ -1,0 +1,220 @@
+C:\Users\pyo\documents\visual studio 2015\Projects\Cats\Cats\bin\Debug\x86\sqlite3.dll
+C:\Users\pyo\documents\visual studio 2015\Projects\Cats\Cats\bin\Debug\x64\sqlite3.dll
+C:\Users\pyo\documents\visual studio 2015\Projects\Cats\Cats\bin\Debug\Cats.exe.config
+C:\Users\pyo\documents\visual studio 2015\Projects\Cats\Cats\bin\Debug\Cats.exe
+C:\Users\pyo\documents\visual studio 2015\Projects\Cats\Cats\bin\Debug\Cats.pdb
+C:\Users\pyo\documents\visual studio 2015\Projects\Cats\Cats\bin\Debug\Community.CsharpSqlite.dll
+C:\Users\pyo\documents\visual studio 2015\Projects\Cats\Cats\bin\Debug\Community.CsharpSqlite.SQLiteClient.dll
+C:\Users\pyo\documents\visual studio 2015\Projects\Cats\Cats\bin\Debug\EntityFramework.dll
+C:\Users\pyo\documents\visual studio 2015\Projects\Cats\Cats\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pyo\documents\visual studio 2015\Projects\Cats\Cats\bin\Debug\FluentNHibernate.Cfg.Db.CsharpSqlite.dll
+C:\Users\pyo\documents\visual studio 2015\Projects\Cats\Cats\bin\Debug\FluentNHibernate.dll
+C:\Users\pyo\documents\visual studio 2015\Projects\Cats\Cats\bin\Debug\GeoAPI.dll
+C:\Users\pyo\documents\visual studio 2015\Projects\Cats\Cats\bin\Debug\Iesi.Collections.dll
+C:\Users\pyo\documents\visual studio 2015\Projects\Cats\Cats\bin\Debug\MySql.Data.dll
+C:\Users\pyo\documents\visual studio 2015\Projects\Cats\Cats\bin\Debug\NetTopologySuite.dll
+C:\Users\pyo\documents\visual studio 2015\Projects\Cats\Cats\bin\Debug\NetTopologySuite.IO.dll
+C:\Users\pyo\documents\visual studio 2015\Projects\Cats\Cats\bin\Debug\NetTopologySuite.IO.GeoTools.dll
+C:\Users\pyo\documents\visual studio 2015\Projects\Cats\Cats\bin\Debug\NetTopologySuite.IO.MsSqlSpatial.dll
+C:\Users\pyo\documents\visual studio 2015\Projects\Cats\Cats\bin\Debug\NetTopologySuite.IO.PostGis.dll
+C:\Users\pyo\documents\visual studio 2015\Projects\Cats\Cats\bin\Debug\NetTopologySuite.IO.ShapeFile.dll
+C:\Users\pyo\documents\visual studio 2015\Projects\Cats\Cats\bin\Debug\NetTopologySuite.IO.ShapeFile.Extended.dll
+C:\Users\pyo\documents\visual studio 2015\Projects\Cats\Cats\bin\Debug\NHibernate.dll
+C:\Users\pyo\documents\visual studio 2015\Projects\Cats\Cats\bin\Debug\NHibernate.Mapping.Attributes.dll
+C:\Users\pyo\documents\visual studio 2015\Projects\Cats\Cats\bin\Debug\NHibernate.Spatial.dll
+C:\Users\pyo\documents\visual studio 2015\Projects\Cats\Cats\bin\Debug\NHibernate.Spatial.MsSql.dll
+C:\Users\pyo\documents\visual studio 2015\Projects\Cats\Cats\bin\Debug\NHibernate.Spatial.MySQL.dll
+C:\Users\pyo\documents\visual studio 2015\Projects\Cats\Cats\bin\Debug\PowerCollections.dll
+C:\Users\pyo\documents\visual studio 2015\Projects\Cats\Cats\bin\Debug\System.Data.SQLite.dll
+C:\Users\pyo\documents\visual studio 2015\Projects\Cats\Cats\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\pyo\documents\visual studio 2015\Projects\Cats\Cats\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\pyo\documents\visual studio 2015\Projects\Cats\Cats\bin\Debug\EntityFramework.xml
+C:\Users\pyo\documents\visual studio 2015\Projects\Cats\Cats\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pyo\documents\visual studio 2015\Projects\Cats\Cats\bin\Debug\FluentNHibernate.pdb
+C:\Users\pyo\documents\visual studio 2015\Projects\Cats\Cats\bin\Debug\FluentNHibernate.xml
+C:\Users\pyo\documents\visual studio 2015\Projects\Cats\Cats\bin\Debug\FluentNHibernate.Cfg.Db.CsharpSqlite.xml
+C:\Users\pyo\documents\visual studio 2015\Projects\Cats\Cats\bin\Debug\GeoAPI.xml
+C:\Users\pyo\documents\visual studio 2015\Projects\Cats\Cats\bin\Debug\Iesi.Collections.xml
+C:\Users\pyo\documents\visual studio 2015\Projects\Cats\Cats\bin\Debug\NetTopologySuite.xml
+C:\Users\pyo\documents\visual studio 2015\Projects\Cats\Cats\bin\Debug\NetTopologySuite.IO.xml
+C:\Users\pyo\documents\visual studio 2015\Projects\Cats\Cats\bin\Debug\NetTopologySuite.IO.GeoTools.xml
+C:\Users\pyo\documents\visual studio 2015\Projects\Cats\Cats\bin\Debug\NetTopologySuite.IO.MsSqlSpatial.xml
+C:\Users\pyo\documents\visual studio 2015\Projects\Cats\Cats\bin\Debug\NetTopologySuite.IO.PostGis.xml
+C:\Users\pyo\documents\visual studio 2015\Projects\Cats\Cats\bin\Debug\NetTopologySuite.IO.ShapeFile.xml
+C:\Users\pyo\documents\visual studio 2015\Projects\Cats\Cats\bin\Debug\NetTopologySuite.IO.ShapeFile.Extended.xml
+C:\Users\pyo\documents\visual studio 2015\Projects\Cats\Cats\bin\Debug\NHibernate.xml
+C:\Users\pyo\documents\visual studio 2015\Projects\Cats\Cats\bin\Debug\NHibernate.Spatial.xml
+C:\Users\pyo\documents\visual studio 2015\Projects\Cats\Cats\bin\Debug\PowerCollections.xml
+C:\Users\pyo\documents\visual studio 2015\Projects\Cats\Cats\bin\Debug\System.Data.SQLite.xml
+C:\Users\pyo\documents\visual studio 2015\Projects\Cats\Cats\obj\Debug\Cats.Properties.Resources.resources
+C:\Users\pyo\documents\visual studio 2015\Projects\Cats\Cats\obj\Debug\Cats.Registration.resources
+C:\Users\pyo\documents\visual studio 2015\Projects\Cats\Cats\obj\Debug\Cats.csproj.GenerateResource.Cache
+C:\Users\pyo\documents\visual studio 2015\Projects\Cats\Cats\obj\Debug\Cats.exe
+C:\Users\pyo\documents\visual studio 2015\Projects\Cats\Cats\obj\Debug\Cats.pdb
+C:\Users\pyo\Documents\Visual Studio 2015\Projects\Cats\Cats\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\pyo\Documents\Visual Studio 2015\Projects\Cats\Cats\obj\Debug\Cats.csprojResolveAssemblyReference.cache
+C:\Users\Tripon\Desktop\Cats\Cats\bin\Debug\Cats.exe.config
+C:\Users\Tripon\Desktop\Cats\Cats\obj\Debug\Cats.exe
+C:\Users\Tripon\Desktop\Cats\Cats\obj\Debug\Cats.pdb
+C:\Users\Tripon\Desktop\Cats\Cats\bin\Debug\x86\sqlite3.dll
+C:\Users\Tripon\Desktop\Cats\Cats\bin\Debug\x64\sqlite3.dll
+C:\Users\Tripon\Desktop\Cats\Cats\bin\Debug\Cats.exe
+C:\Users\Tripon\Desktop\Cats\Cats\bin\Debug\Cats.pdb
+C:\Users\Tripon\Desktop\Cats\Cats\bin\Debug\Community.CsharpSqlite.dll
+C:\Users\Tripon\Desktop\Cats\Cats\bin\Debug\Community.CsharpSqlite.SQLiteClient.dll
+C:\Users\Tripon\Desktop\Cats\Cats\bin\Debug\EntityFramework.dll
+C:\Users\Tripon\Desktop\Cats\Cats\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Tripon\Desktop\Cats\Cats\bin\Debug\FluentNHibernate.Cfg.Db.CsharpSqlite.dll
+C:\Users\Tripon\Desktop\Cats\Cats\bin\Debug\FluentNHibernate.dll
+C:\Users\Tripon\Desktop\Cats\Cats\bin\Debug\GeoAPI.dll
+C:\Users\Tripon\Desktop\Cats\Cats\bin\Debug\Iesi.Collections.dll
+C:\Users\Tripon\Desktop\Cats\Cats\bin\Debug\MySql.Data.dll
+C:\Users\Tripon\Desktop\Cats\Cats\bin\Debug\NetTopologySuite.dll
+C:\Users\Tripon\Desktop\Cats\Cats\bin\Debug\NetTopologySuite.IO.dll
+C:\Users\Tripon\Desktop\Cats\Cats\bin\Debug\NetTopologySuite.IO.GeoTools.dll
+C:\Users\Tripon\Desktop\Cats\Cats\bin\Debug\NetTopologySuite.IO.MsSqlSpatial.dll
+C:\Users\Tripon\Desktop\Cats\Cats\bin\Debug\NetTopologySuite.IO.PostGis.dll
+C:\Users\Tripon\Desktop\Cats\Cats\bin\Debug\NetTopologySuite.IO.ShapeFile.dll
+C:\Users\Tripon\Desktop\Cats\Cats\bin\Debug\NetTopologySuite.IO.ShapeFile.Extended.dll
+C:\Users\Tripon\Desktop\Cats\Cats\bin\Debug\NHibernate.dll
+C:\Users\Tripon\Desktop\Cats\Cats\bin\Debug\NHibernate.Mapping.Attributes.dll
+C:\Users\Tripon\Desktop\Cats\Cats\bin\Debug\NHibernate.Spatial.dll
+C:\Users\Tripon\Desktop\Cats\Cats\bin\Debug\NHibernate.Spatial.MsSql.dll
+C:\Users\Tripon\Desktop\Cats\Cats\bin\Debug\NHibernate.Spatial.MySQL.dll
+C:\Users\Tripon\Desktop\Cats\Cats\bin\Debug\PowerCollections.dll
+C:\Users\Tripon\Desktop\Cats\Cats\bin\Debug\System.Data.SQLite.dll
+C:\Users\Tripon\Desktop\Cats\Cats\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Tripon\Desktop\Cats\Cats\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Tripon\Desktop\Cats\Cats\bin\Debug\EntityFramework.xml
+C:\Users\Tripon\Desktop\Cats\Cats\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Tripon\Desktop\Cats\Cats\bin\Debug\FluentNHibernate.pdb
+C:\Users\Tripon\Desktop\Cats\Cats\bin\Debug\FluentNHibernate.xml
+C:\Users\Tripon\Desktop\Cats\Cats\bin\Debug\FluentNHibernate.Cfg.Db.CsharpSqlite.xml
+C:\Users\Tripon\Desktop\Cats\Cats\bin\Debug\GeoAPI.xml
+C:\Users\Tripon\Desktop\Cats\Cats\bin\Debug\Iesi.Collections.xml
+C:\Users\Tripon\Desktop\Cats\Cats\bin\Debug\NetTopologySuite.xml
+C:\Users\Tripon\Desktop\Cats\Cats\bin\Debug\NetTopologySuite.IO.xml
+C:\Users\Tripon\Desktop\Cats\Cats\bin\Debug\NetTopologySuite.IO.GeoTools.xml
+C:\Users\Tripon\Desktop\Cats\Cats\bin\Debug\NetTopologySuite.IO.MsSqlSpatial.xml
+C:\Users\Tripon\Desktop\Cats\Cats\bin\Debug\NetTopologySuite.IO.PostGis.xml
+C:\Users\Tripon\Desktop\Cats\Cats\bin\Debug\NetTopologySuite.IO.ShapeFile.xml
+C:\Users\Tripon\Desktop\Cats\Cats\bin\Debug\NetTopologySuite.IO.ShapeFile.Extended.xml
+C:\Users\Tripon\Desktop\Cats\Cats\bin\Debug\NHibernate.xml
+C:\Users\Tripon\Desktop\Cats\Cats\bin\Debug\NHibernate.Spatial.xml
+C:\Users\Tripon\Desktop\Cats\Cats\bin\Debug\PowerCollections.xml
+C:\Users\Tripon\Desktop\Cats\Cats\bin\Debug\System.Data.SQLite.xml
+C:\Users\Tripon\Desktop\Cats\Cats\obj\Debug\Cats.csprojResolveAssemblyReference.cache
+C:\Users\Tripon\Desktop\Cats\Cats\obj\Debug\Cats.Properties.Resources.resources
+C:\Users\Tripon\Desktop\Cats\Cats\obj\Debug\Cats.Registration.resources
+C:\Users\Tripon\Desktop\Cats\Cats\obj\Debug\Cats.csproj.GenerateResource.Cache
+H:\Users\Tripon\Desktop\инст\НАСТЕ\Cats\Cats\bin\Debug\x86\sqlite3.dll
+H:\Users\Tripon\Desktop\инст\НАСТЕ\Cats\Cats\bin\Debug\x64\sqlite3.dll
+H:\Users\Tripon\Desktop\инст\НАСТЕ\Cats\Cats\bin\Debug\Cats.exe.config
+H:\Users\Tripon\Desktop\инст\НАСТЕ\Cats\Cats\bin\Debug\Cats.exe
+H:\Users\Tripon\Desktop\инст\НАСТЕ\Cats\Cats\bin\Debug\Cats.pdb
+H:\Users\Tripon\Desktop\инст\НАСТЕ\Cats\Cats\bin\Debug\Community.CsharpSqlite.dll
+H:\Users\Tripon\Desktop\инст\НАСТЕ\Cats\Cats\bin\Debug\Community.CsharpSqlite.SQLiteClient.dll
+H:\Users\Tripon\Desktop\инст\НАСТЕ\Cats\Cats\bin\Debug\EntityFramework.dll
+H:\Users\Tripon\Desktop\инст\НАСТЕ\Cats\Cats\bin\Debug\EntityFramework.SqlServer.dll
+H:\Users\Tripon\Desktop\инст\НАСТЕ\Cats\Cats\bin\Debug\FluentNHibernate.Cfg.Db.CsharpSqlite.dll
+H:\Users\Tripon\Desktop\инст\НАСТЕ\Cats\Cats\bin\Debug\FluentNHibernate.dll
+H:\Users\Tripon\Desktop\инст\НАСТЕ\Cats\Cats\bin\Debug\GeoAPI.dll
+H:\Users\Tripon\Desktop\инст\НАСТЕ\Cats\Cats\bin\Debug\Iesi.Collections.dll
+H:\Users\Tripon\Desktop\инст\НАСТЕ\Cats\Cats\bin\Debug\MySql.Data.dll
+H:\Users\Tripon\Desktop\инст\НАСТЕ\Cats\Cats\bin\Debug\NetTopologySuite.dll
+H:\Users\Tripon\Desktop\инст\НАСТЕ\Cats\Cats\bin\Debug\NetTopologySuite.IO.dll
+H:\Users\Tripon\Desktop\инст\НАСТЕ\Cats\Cats\bin\Debug\NetTopologySuite.IO.GeoTools.dll
+H:\Users\Tripon\Desktop\инст\НАСТЕ\Cats\Cats\bin\Debug\NetTopologySuite.IO.MsSqlSpatial.dll
+H:\Users\Tripon\Desktop\инст\НАСТЕ\Cats\Cats\bin\Debug\NetTopologySuite.IO.PostGis.dll
+H:\Users\Tripon\Desktop\инст\НАСТЕ\Cats\Cats\bin\Debug\NetTopologySuite.IO.ShapeFile.dll
+H:\Users\Tripon\Desktop\инст\НАСТЕ\Cats\Cats\bin\Debug\NetTopologySuite.IO.ShapeFile.Extended.dll
+H:\Users\Tripon\Desktop\инст\НАСТЕ\Cats\Cats\bin\Debug\NHibernate.dll
+H:\Users\Tripon\Desktop\инст\НАСТЕ\Cats\Cats\bin\Debug\NHibernate.Mapping.Attributes.dll
+H:\Users\Tripon\Desktop\инст\НАСТЕ\Cats\Cats\bin\Debug\NHibernate.Spatial.dll
+H:\Users\Tripon\Desktop\инст\НАСТЕ\Cats\Cats\bin\Debug\NHibernate.Spatial.MsSql.dll
+H:\Users\Tripon\Desktop\инст\НАСТЕ\Cats\Cats\bin\Debug\NHibernate.Spatial.MySQL.dll
+H:\Users\Tripon\Desktop\инст\НАСТЕ\Cats\Cats\bin\Debug\PowerCollections.dll
+H:\Users\Tripon\Desktop\инст\НАСТЕ\Cats\Cats\bin\Debug\System.Data.SQLite.dll
+H:\Users\Tripon\Desktop\инст\НАСТЕ\Cats\Cats\bin\Debug\System.Data.SQLite.EF6.dll
+H:\Users\Tripon\Desktop\инст\НАСТЕ\Cats\Cats\bin\Debug\System.Data.SQLite.Linq.dll
+H:\Users\Tripon\Desktop\инст\НАСТЕ\Cats\Cats\bin\Debug\EntityFramework.xml
+H:\Users\Tripon\Desktop\инст\НАСТЕ\Cats\Cats\bin\Debug\EntityFramework.SqlServer.xml
+H:\Users\Tripon\Desktop\инст\НАСТЕ\Cats\Cats\bin\Debug\FluentNHibernate.pdb
+H:\Users\Tripon\Desktop\инст\НАСТЕ\Cats\Cats\bin\Debug\FluentNHibernate.xml
+H:\Users\Tripon\Desktop\инст\НАСТЕ\Cats\Cats\bin\Debug\FluentNHibernate.Cfg.Db.CsharpSqlite.xml
+H:\Users\Tripon\Desktop\инст\НАСТЕ\Cats\Cats\bin\Debug\GeoAPI.xml
+H:\Users\Tripon\Desktop\инст\НАСТЕ\Cats\Cats\bin\Debug\Iesi.Collections.xml
+H:\Users\Tripon\Desktop\инст\НАСТЕ\Cats\Cats\bin\Debug\NetTopologySuite.xml
+H:\Users\Tripon\Desktop\инст\НАСТЕ\Cats\Cats\bin\Debug\NetTopologySuite.IO.xml
+H:\Users\Tripon\Desktop\инст\НАСТЕ\Cats\Cats\bin\Debug\NetTopologySuite.IO.GeoTools.xml
+H:\Users\Tripon\Desktop\инст\НАСТЕ\Cats\Cats\bin\Debug\NetTopologySuite.IO.MsSqlSpatial.xml
+H:\Users\Tripon\Desktop\инст\НАСТЕ\Cats\Cats\bin\Debug\NetTopologySuite.IO.PostGis.xml
+H:\Users\Tripon\Desktop\инст\НАСТЕ\Cats\Cats\bin\Debug\NetTopologySuite.IO.ShapeFile.xml
+H:\Users\Tripon\Desktop\инст\НАСТЕ\Cats\Cats\bin\Debug\NetTopologySuite.IO.ShapeFile.Extended.xml
+H:\Users\Tripon\Desktop\инст\НАСТЕ\Cats\Cats\bin\Debug\NHibernate.xml
+H:\Users\Tripon\Desktop\инст\НАСТЕ\Cats\Cats\bin\Debug\NHibernate.Spatial.xml
+H:\Users\Tripon\Desktop\инст\НАСТЕ\Cats\Cats\bin\Debug\PowerCollections.xml
+H:\Users\Tripon\Desktop\инст\НАСТЕ\Cats\Cats\bin\Debug\System.Data.SQLite.xml
+H:\Users\Tripon\Desktop\инст\НАСТЕ\Cats\Cats\bin\Debug\System.Data.SQLite.dll.config
+H:\Users\Tripon\Desktop\инст\НАСТЕ\Cats\Cats\obj\Debug\Cats.csprojResolveAssemblyReference.cache
+H:\Users\Tripon\Desktop\инст\НАСТЕ\Cats\Cats\obj\Debug\Cats.Properties.Resources.resources
+H:\Users\Tripon\Desktop\инст\НАСТЕ\Cats\Cats\obj\Debug\Cats.Registration.resources
+H:\Users\Tripon\Desktop\инст\НАСТЕ\Cats\Cats\obj\Debug\Cats.csproj.GenerateResource.Cache
+H:\Users\Tripon\Desktop\инст\НАСТЕ\Cats\Cats\obj\Debug\Cats.csproj.CoreCompileInputs.cache
+H:\Users\Tripon\Desktop\инст\НАСТЕ\Cats\Cats\obj\Debug\Cats.exe
+H:\Users\Tripon\Desktop\инст\НАСТЕ\Cats\Cats\obj\Debug\Cats.pdb
+C:\Users\marto\Desktop\другое\Настя\Cats\Cats\bin\Debug\x86\sqlite3.dll
+C:\Users\marto\Desktop\другое\Настя\Cats\Cats\bin\Debug\x64\sqlite3.dll
+C:\Users\marto\Desktop\другое\Настя\Cats\Cats\bin\Debug\Cats.exe.config
+C:\Users\marto\Desktop\другое\Настя\Cats\Cats\bin\Debug\Cats.exe
+C:\Users\marto\Desktop\другое\Настя\Cats\Cats\bin\Debug\Cats.pdb
+C:\Users\marto\Desktop\другое\Настя\Cats\Cats\bin\Debug\Community.CsharpSqlite.dll
+C:\Users\marto\Desktop\другое\Настя\Cats\Cats\bin\Debug\Community.CsharpSqlite.SQLiteClient.dll
+C:\Users\marto\Desktop\другое\Настя\Cats\Cats\bin\Debug\EntityFramework.dll
+C:\Users\marto\Desktop\другое\Настя\Cats\Cats\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\marto\Desktop\другое\Настя\Cats\Cats\bin\Debug\FluentNHibernate.Cfg.Db.CsharpSqlite.dll
+C:\Users\marto\Desktop\другое\Настя\Cats\Cats\bin\Debug\FluentNHibernate.dll
+C:\Users\marto\Desktop\другое\Настя\Cats\Cats\bin\Debug\GeoAPI.dll
+C:\Users\marto\Desktop\другое\Настя\Cats\Cats\bin\Debug\Iesi.Collections.dll
+C:\Users\marto\Desktop\другое\Настя\Cats\Cats\bin\Debug\MySql.Data.dll
+C:\Users\marto\Desktop\другое\Настя\Cats\Cats\bin\Debug\NetTopologySuite.dll
+C:\Users\marto\Desktop\другое\Настя\Cats\Cats\bin\Debug\NetTopologySuite.IO.dll
+C:\Users\marto\Desktop\другое\Настя\Cats\Cats\bin\Debug\NetTopologySuite.IO.GeoTools.dll
+C:\Users\marto\Desktop\другое\Настя\Cats\Cats\bin\Debug\NetTopologySuite.IO.MsSqlSpatial.dll
+C:\Users\marto\Desktop\другое\Настя\Cats\Cats\bin\Debug\NetTopologySuite.IO.PostGis.dll
+C:\Users\marto\Desktop\другое\Настя\Cats\Cats\bin\Debug\NetTopologySuite.IO.ShapeFile.dll
+C:\Users\marto\Desktop\другое\Настя\Cats\Cats\bin\Debug\NetTopologySuite.IO.ShapeFile.Extended.dll
+C:\Users\marto\Desktop\другое\Настя\Cats\Cats\bin\Debug\NHibernate.dll
+C:\Users\marto\Desktop\другое\Настя\Cats\Cats\bin\Debug\NHibernate.Mapping.Attributes.dll
+C:\Users\marto\Desktop\другое\Настя\Cats\Cats\bin\Debug\NHibernate.Spatial.dll
+C:\Users\marto\Desktop\другое\Настя\Cats\Cats\bin\Debug\NHibernate.Spatial.MsSql.dll
+C:\Users\marto\Desktop\другое\Настя\Cats\Cats\bin\Debug\NHibernate.Spatial.MySQL.dll
+C:\Users\marto\Desktop\другое\Настя\Cats\Cats\bin\Debug\PowerCollections.dll
+C:\Users\marto\Desktop\другое\Настя\Cats\Cats\bin\Debug\System.Data.SQLite.dll
+C:\Users\marto\Desktop\другое\Настя\Cats\Cats\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\marto\Desktop\другое\Настя\Cats\Cats\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\marto\Desktop\другое\Настя\Cats\Cats\bin\Debug\EntityFramework.xml
+C:\Users\marto\Desktop\другое\Настя\Cats\Cats\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\marto\Desktop\другое\Настя\Cats\Cats\bin\Debug\FluentNHibernate.pdb
+C:\Users\marto\Desktop\другое\Настя\Cats\Cats\bin\Debug\FluentNHibernate.xml
+C:\Users\marto\Desktop\другое\Настя\Cats\Cats\bin\Debug\FluentNHibernate.Cfg.Db.CsharpSqlite.xml
+C:\Users\marto\Desktop\другое\Настя\Cats\Cats\bin\Debug\GeoAPI.xml
+C:\Users\marto\Desktop\другое\Настя\Cats\Cats\bin\Debug\Iesi.Collections.xml
+C:\Users\marto\Desktop\другое\Настя\Cats\Cats\bin\Debug\NetTopologySuite.xml
+C:\Users\marto\Desktop\другое\Настя\Cats\Cats\bin\Debug\NetTopologySuite.IO.xml
+C:\Users\marto\Desktop\другое\Настя\Cats\Cats\bin\Debug\NetTopologySuite.IO.GeoTools.xml
+C:\Users\marto\Desktop\другое\Настя\Cats\Cats\bin\Debug\NetTopologySuite.IO.MsSqlSpatial.xml
+C:\Users\marto\Desktop\другое\Настя\Cats\Cats\bin\Debug\NetTopologySuite.IO.PostGis.xml
+C:\Users\marto\Desktop\другое\Настя\Cats\Cats\bin\Debug\NetTopologySuite.IO.ShapeFile.xml
+C:\Users\marto\Desktop\другое\Настя\Cats\Cats\bin\Debug\NetTopologySuite.IO.ShapeFile.Extended.xml
+C:\Users\marto\Desktop\другое\Настя\Cats\Cats\bin\Debug\NHibernate.xml
+C:\Users\marto\Desktop\другое\Настя\Cats\Cats\bin\Debug\NHibernate.Spatial.xml
+C:\Users\marto\Desktop\другое\Настя\Cats\Cats\bin\Debug\PowerCollections.xml
+C:\Users\marto\Desktop\другое\Настя\Cats\Cats\bin\Debug\System.Data.SQLite.xml
+C:\Users\marto\Desktop\другое\Настя\Cats\Cats\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\marto\Desktop\другое\Настя\Cats\Cats\obj\Debug\Cats.csprojResolveAssemblyReference.cache
+C:\Users\marto\Desktop\другое\Настя\Cats\Cats\obj\Debug\Cats.Properties.Resources.resources
+C:\Users\marto\Desktop\другое\Настя\Cats\Cats\obj\Debug\Cats.csproj.GenerateResource.Cache
+C:\Users\marto\Desktop\другое\Настя\Cats\Cats\obj\Debug\Cats.csproj.CoreCompileInputs.cache
+C:\Users\marto\Desktop\другое\Настя\Cats\Cats\obj\Debug\Cats.exe
+C:\Users\marto\Desktop\другое\Настя\Cats\Cats\obj\Debug\Cats.pdb
